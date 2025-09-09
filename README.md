@@ -109,28 +109,31 @@ plt.show()
 
 ## OUTPUT:
 ## original image:
-<img width="717" height="252" alt="download" src="https://github.com/user-attachments/assets/9a7ee386-2125-497c-bbeb-aaaf37339a3a" />
+<img width="717" height="252" alt="download" src="https://github.com/user-attachments/assets/0c3c1707-92f5-4248-b019-7a03609a6164" />
+
 
 
 ### 1. Smoothing Filters
 
 ## i) Using Averaging Filter
-![image](https://github.com/user-attachments/assets/eb3b734c-5842-4314-9a97-b95b7b2fb6dd)
+<img width="717" height="252" alt="download" src="https://github.com/user-attachments/assets/0870a1a6-d01e-4cb2-a15f-c72fb961ed16" />
 
 
 ## ii)Using Weighted Averaging Filter
-![image](https://github.com/user-attachments/assets/82bafb87-03ac-4da3-967f-121325904006)
+<img width="515" height="371" alt="download" src="https://github.com/user-attachments/assets/8d6ba906-42c8-4642-a5cc-6e0ee80f70d5" />
+
 
 
 
 ## iii)Using Gaussian Filter
-![image](https://github.com/user-attachments/assets/92919bb9-09bb-4875-9df2-74038da4816b)
+<img width="515" height="371" alt="download" src="https://github.com/user-attachments/assets/d13584c7-e1fd-461f-8b4a-fbfbd3337f56" />
+
 
 
 
 
 ## iv) Using Median Filter
-![image](https://github.com/user-attachments/assets/ec4e3f65-0290-4e2f-b02d-99159d5a73d1)
+<img width="717" height="252" alt="download" src="https://github.com/user-attachments/assets/a24899f0-e760-4ebc-a176-4942bef6895b" />
 
 
 
@@ -140,12 +143,13 @@ plt.show()
 </br>
 
 ## i) Using Laplacian Kernal
-![image](https://github.com/user-attachments/assets/2a268cb3-e908-4963-a321-42848edc3aa4)
+<img width="717" height="252" alt="download" src="https://github.com/user-attachments/assets/6e8bdce0-9da7-48dd-8815-6ebf88103534" />
 
 
 
 ## ii) Using Laplacian Operator
-![image](https://github.com/user-attachments/assets/57ddfb34-961e-4135-9185-73e98c7eb67c)
+<img width="515" height="371" alt="download" src="https://github.com/user-attachments/assets/3de209a1-cf37-434d-a499-b64c06b09c69" />
+
 
 
 
